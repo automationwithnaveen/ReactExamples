@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+h1{
+  text-align: center;
+  font-size: xx-large;
+}
+
+div{
+  text-align: center;  
+  margin: 20px;  
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+
+table{
+  align-items: center;
+}
